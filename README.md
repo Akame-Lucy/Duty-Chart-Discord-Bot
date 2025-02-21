@@ -14,4 +14,4 @@ Discord.js
 Supabase
 📜 License: MIT
 
-🔗 Get Started: Check out the README.md file in project file for setup instructions!
+🔗 Get Started: Check out the README.md in project directory for setup instructions!
