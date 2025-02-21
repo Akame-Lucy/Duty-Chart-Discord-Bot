@@ -15,7 +15,9 @@ This project uses Supabase for database management and Discord.js for interactin
 ## Setup
 
 ### 1. Clone the repository
-git clone <repository-url> cd <repository-directory>
+git clone https://github.com/Akame-Lucy/Duty-Chart-Discord-Bot.git
+cd Duty-Chart-Discord-Bot/project
+
 
 ### 2. Install dependencies
 npm install
