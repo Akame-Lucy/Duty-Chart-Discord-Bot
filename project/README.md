@@ -20,7 +20,7 @@ This project uses Supabase for database management and Discord.js for interactin
 
 
 ### 2. Install dependencies
-npm install
+- npm install
 
 ### 3. Update or Create a .env file
 ```
@@ -37,12 +37,12 @@ SUPABASE_KEY=your_supbase_api_key
 ### 4. Run Supabase migration files
 To run Supabase migration files, use the following command:
 
-npx supabase db push
+- npx supabase db push
 
 This command will apply all the migration files to your Supabase database.
 
 ### 5. Start the application
-npm run dev
+- npm run dev
 
 ## How to Create a Discord Application
 
