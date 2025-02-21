@@ -1,5 +1,5 @@
 # Project Name
-Duty Chart Bot
+Duty-Chart-Discord-Bot
 
 # Author
 [![Author](https://img.shields.io/badge/Author-Akame__Lucy-blue)](https://github.com/Akame-Lucy)
